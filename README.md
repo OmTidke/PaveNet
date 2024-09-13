@@ -31,7 +31,7 @@ The Enhanced ResUNet architecture is built on the traditional UNet model with im
 2. Bridge
 3. Decoder
 
-   ![image](https://github.com/user-attachments/assets/a4337bd7-dc96-4644-a72d-53fb20bc337b)
+![image](https://github.com/user-attachments/assets/a4337bd7-dc96-4644-a72d-53fb20bc337b)
 
 Results
 Training Accuracy: 97.76%
@@ -43,6 +43,8 @@ Mean IoU: 51.19
 ![image](https://github.com/user-attachments/assets/f4939858-14e2-4ca5-aa2e-bd340c4fcf55)
 
 Below are some results from the CamVid dataset:
+
+
 Original Image
 ![image](https://github.com/user-attachments/assets/fe645f97-e583-47a3-abbc-bde60b04179a)
 Annotated Image
