@@ -52,25 +52,25 @@ Annotated Image<br />
 
 
 # Segmentation Results
-![image](https://github.com/user-attachments/assets/e9350a54-5a7a-4695-b7cf-60a655d0ca96)
-![image](https://github.com/user-attachments/assets/c382e89a-771c-4ac2-b86a-887e4261801c)
-![image](https://github.com/user-attachments/assets/6ba0f43b-3838-416b-8bb5-4274141c505b)
+![image](https://github.com/user-attachments/assets/e9350a54-5a7a-4695-b7cf-60a655d0ca96)<br />
+![image](https://github.com/user-attachments/assets/c382e89a-771c-4ac2-b86a-887e4261801c)<br />
+![image](https://github.com/user-attachments/assets/c04d9887-9ef8-4d77-b5f6-74dadd818555)<br />
 
-Future Work
+
+# Future Work
 We aim to further optimize the architecture and explore additional datasets to improve the model's generalization capabilities. In particular, we plan to fine-tune hyperparameters and investigate better data augmentation techniques to enhance segmentation accuracy.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Code Availability
+
+# Code Availability
 The source code for the project is not included in this repository. For access to the code, please contact the author via email.
 
-Contact
+# Contact
 If you have any questions or need further assistance, feel free to reach out:
 
-Author:
-Email: om.b.tidke@gmail.com
-Email: sahishpandav@gmail.com
-
+# Author:
+Email: om.b.tidke@gmail.com<br />
+Email: sahishpandav@gmail.com<br />
+<br />
 We hope you find this project useful. If you do, don't forget to ⭐ star the repository!
 
