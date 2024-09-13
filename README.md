@@ -2,9 +2,9 @@
 PaveNet: An Architecture for Multi-class semantic segmentation in Urban Environments
 
 # Authors:
-Sahish Ashok Pandav
-Om Tidke
-Madhura Pande
+Sahish Ashok Pandav<br />
+Om Tidke<br />
+Madhura Pande<br />
 
 
 # Overview
