@@ -43,7 +43,9 @@ Mean IoU: 51.19
 ![image](https://github.com/user-attachments/assets/f4939858-14e2-4ca5-aa2e-bd340c4fcf55)
 
 Below are some results from the CamVid dataset:
+Original Image
 ![image](https://github.com/user-attachments/assets/fe645f97-e583-47a3-abbc-bde60b04179a)
+Annotated Image
 ![image](https://github.com/user-attachments/assets/bb8fd3f9-d356-44a3-a44e-6a47171854c9)
 
 
